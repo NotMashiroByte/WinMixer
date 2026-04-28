@@ -3,23 +3,23 @@ This project make it possible to control the volume of applications on pc
 
 ## Features
 
--control your volumes of any applications
+- control your volumes of any applications
 
--easy to extend
+- easy to extend
 
--simple build and code
+- simple build and code
 
--makes it nice and easy to change your volumes fast and precise
+- makes it nice and easy to change your volumes fast and precise
 
 ## Parts you will need
 
--Esp32
+- Esp32
 
--Faders how many you want
+- Faders how many you want
 
--wires
+- wires
 
--some soldering stuff
+- some soldering stuff
 
 ## Installation
 
