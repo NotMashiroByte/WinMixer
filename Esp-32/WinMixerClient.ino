@@ -14,6 +14,7 @@ void setup() {
   }
 }
 
+ 
 void loop() {
   for (int i = 0; i < 3; i++) {
     int val = analogRead(pots[i]);
