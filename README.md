@@ -1,13 +1,13 @@
-# WinMixer 
+## WinMixer 
 This project make it possible to control the volume of applications on pc
 
-#Features
+## Features
 -control your volumes of any applications
 -easy to extend
 -simple build and code
 -makes it nice and easy to change your volumes fast and precise
 
-#Parts you will need
+## Parts you will need
 -Esp32
 -Faders how many you want
 -wires
@@ -24,7 +24,7 @@ This project make it possible to control the volume of applications on pc
 
 4. download python and needed packages
 
-## Nutzung
+## How to Use?
 
 - start the python script on your PC
 - plug-in the Esp-32 into your PC
